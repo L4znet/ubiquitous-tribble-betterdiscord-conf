@@ -1,0 +1,31 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.8.6",
+			"BetterFriendList": "1.5.5",
+			"BetterSearchPage": "1.2.4",
+			"GameActivityToggle": "1.2.8",
+			"ImageUtilities": "5.4.9",
+			"QuickMention": "1.0.5",
+			"ReadAllNotificationsButton": "1.7.8",
+			"ServerFolders": "7.2.7",
+			"SplitLargeMessages": "1.8.4",
+			"SpotifyControls": "1.4.1",
+			"ThemeRepo": "2.5.9",
+			"WriteUpperCase": "1.4.0"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "5f192cb31a95e4e6bc1add9f3509f02c943d237e",
+			"0BDFDB.raw.css": "7c6c34a10391702b93af4cfaeb3965fe7b0fdcc7"
+		}
+	}
+}
