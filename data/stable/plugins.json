@@ -27,5 +27,6 @@
     "SpotifyControls": true,
     "ZeresPluginLibrary": true,
     "BDFDB": true,
-    "BetterFormattingRedux": true
+    "BetterFormattingRedux": true,
+    "MessageUtilities": true
 }

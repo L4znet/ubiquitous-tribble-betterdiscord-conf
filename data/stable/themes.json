@@ -1,5 +1,8 @@
 {
     "Horizontal Server List": false,
     "Vibrant Glass": false,
-    "Dark Matter": true
+    "Dark Matter": false,
+    "ClearVision": true,
+    "Cyan": false,
+    "FVUI": false
 }
